@@ -1,0 +1,24 @@
+{
+  "name": "personal-brand-system",
+  "description": "Инструменты для построения личного бренда с нуля и упаковки его в готовый контент",
+  "owner": {
+    "name": "Elias"
+  },
+  "plugins": [
+    {
+      "name": "brand-blueprint",
+      "source": "./plugins/brand-blueprint",
+      "description": "Позиционирование личного бренда с нуля: Big Idea, аудитория, отличие, личность, контент-план (EN)"
+    },
+    {
+      "name": "brand-blueprint-ru",
+      "source": "./plugins/brand-blueprint-ru",
+      "description": "Позиционирование личного бренда с нуля — на русском языке"
+    },
+    {
+      "name": "content-engine-ru",
+      "source": "./plugins/content-engine-ru",
+      "description": "Готовые сценарии YouTube/Reels и посты в Telegram из уже готового Бренд-Брифа (RU)"
+    }
+  ]
+}
