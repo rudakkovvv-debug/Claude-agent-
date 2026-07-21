@@ -1,0 +1,10 @@
+{
+  "name": "brand-blueprint-ru",
+  "displayName": "Brand Blueprint (RU)",
+  "description": "Позиционирование личного бренда с нуля — на русском языке (Big Idea, аудитория, отличие, личность, контент-план)",
+  "license": "MIT + Commons Clause",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elias"
+  }
+}
