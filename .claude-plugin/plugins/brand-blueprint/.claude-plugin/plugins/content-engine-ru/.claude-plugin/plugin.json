@@ -1,0 +1,10 @@
+{
+  "name": "content-engine-ru",
+  "displayName": "Content Engine (RU)",
+  "description": "Готовые сценарии YouTube/Reels и посты в Telegram из уже готового Бренд-Брифа — на русском языке",
+  "license": "MIT + Commons Clause",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elias"
+  }
+}
