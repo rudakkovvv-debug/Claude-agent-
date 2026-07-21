@@ -1,0 +1,10 @@
+{
+  "name": "brand-blueprint",
+  "displayName": "Brand Blueprint",
+  "description": "From-scratch personal brand positioning walkthrough (Big Idea, audience, differentiation, personality, content plan)",
+  "license": "MIT + Commons Clause",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elias"
+  }
+}
